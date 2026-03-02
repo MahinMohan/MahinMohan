@@ -60,8 +60,7 @@ Published with IEEE
 
 ## 🌱 What Drives Me
 
-I love building tools that aren’t just functional —  
-they’re intuitive, efficient, and genuinely useful to real people.
+I love building tools that aren’t just functional they’re intuitive, efficient, and genuinely useful to real people.
 
 Engineering, for me, is about understanding systems deeply and designing them to be clean, reliable, and scalable.
 
