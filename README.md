@@ -42,7 +42,7 @@ React • Next.js • REST APIs • FastAPI • Django • Flask • Express
 
 ### 🛠 Infrastructure & Systems
 
-Docker • Kubernetes
+Docker • Kubernetes • AWS • Git
 
 ### 🤖 AI / ML
 
